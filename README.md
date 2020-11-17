@@ -1,6 +1,6 @@
-# Sistema-de-control-de-aforos-y-deteccion-de-mascarillas
+# Sistema de control de aforos y deteccion de mascarillas
 
-Software
+# Software
 
 Python 3.7.3 - Python Software Foundation License
 TensorFlow - Apache License 2.0 
@@ -13,7 +13,7 @@ https://grabcad.com/library (Para tomar las dimensiones de los sensores y tarjet
 
 
 
-Hardware
+# Hardware
 
 Mando Distancia IR 
 Receptor IR Infrarrojo VS1838 (conectado al PIN 18 en nuestro caso)

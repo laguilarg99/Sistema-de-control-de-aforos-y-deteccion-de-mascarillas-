@@ -15,8 +15,8 @@ https://grabcad.com/library (Para tomar las dimensiones de los sensores y tarjet
 
 # Hardware
 
-Mando Distancia IR 
-Receptor IR Infrarrojo VS1838 (conectado al PIN 18 en nuestro caso)
-Raspberry Pi 4 Modelo B - 2GB
-Raspberry Pi Camera
+Mando Distancia IR -
+Receptor IR Infrarrojo VS1838 (conectado al PIN 18 en nuestro caso) -
+Raspberry Pi 4 Modelo B 2GB -
+Raspberry Pi Camera -
 

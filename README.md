@@ -9,7 +9,7 @@ OpenCV - 3-clause BSD License
 MFRC522-python - GPLv3
 FreeCad - LGPLv2
 Facenet - The MIT License
-https://grabcad.com/library (Para tomar las dimensiones de los sensores y tarjetas a la hora de hacer los diseños)
+https://grabcad.com/library (Para tomar las dimensiones de los sensores y tarjetas a la hora de hacer los diseños de las carcasas)
 
 
 

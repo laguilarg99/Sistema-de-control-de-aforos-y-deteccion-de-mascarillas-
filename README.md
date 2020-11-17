@@ -6,7 +6,7 @@ Python 3.7.3 - Python Software Foundation License
 TensorFlow - Apache License 2.0 
 Keras - The MIT License
 OpenCV - 3-clause BSD License
-MFRC522-python - GPLv2
+MFRC522-python - GPLv3
 FreeCad - LGPLv2
 Facenet - The MIT License
 https://grabcad.com/library (Para tomar las dimensiones de los sensores y tarjetas a la hora de hacer los diseños)

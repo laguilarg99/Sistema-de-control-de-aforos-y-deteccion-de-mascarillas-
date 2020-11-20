@@ -1,5 +1,9 @@
 # Sistema de control de aforos y deteccion de mascarillas
 
+# Introducción  
+
+Hemos resuleto dos problemas que constituyen un punto de inflexión en la emergencia sanitaria provocada por el virus conocido como SARS-CoV-2 o comúnmente llamado COVID-19 como son: el aforo en espacios cerrados y llevar la mascarilla puesta cuando no se puedan preservar las distancias de seguridad. Ambas soluciones están actualmente implementadas de forma independiente pero que de forma coordinada formando parte de un único sistema ofrecerían una fuerte infraestructura de control ante las medidas sanitarias en cualquier espacio cerrado con carácter público o privado.
+
 # Software
 
 Python 3.7.3 - Python Software Foundation License  
